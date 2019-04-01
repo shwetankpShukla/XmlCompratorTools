@@ -1,0 +1,571 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<reportCodes>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="ACRPCALST" rpt_descr="CorporateCardListService" rpt_type="AT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="PAYMENT_DT PAYMENT_TT" flex_field2="" flex_field3="" language_code="EN" rpt_code="REP" rpt_descr="Pending Repair" rpt_type="DB_TRANS_BT_USER_WF" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="INTERNAL" rpt_descr="Internal Transfer" rpt_type="txn_type" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="PRLSTINT" rpt_descr="Payroll List Init Sevice" rpt_type="AT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="PAYMENT_DT PAYMENT_TT" flex_field2="" flex_field3="" language_code="EN" rpt_code="STP" rpt_descr="Stopped" rpt_type="DB_TRANS_BT_BANK_WF" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="TLCAVAL" rpt_descr="LC Amendment Validate" rpt_type="AT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="PAYMENT_DT PAYMENT_TT" flex_field2="" flex_field3="" language_code="EN" rpt_code="IC" rpt_descr="Incomplete" rpt_type="DB_TRANS_BT_USER_WF" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="FTSILIST" rpt_descr="Fund Transfer SI List" rpt_type="AT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="TSPGRINIT" rpt_descr="Shipping Guarantee Init" rpt_type="AT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="LOGOUT" rpt_descr="Logout" rpt_type="AT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="DOMESTICBOOKTRF" rpt_descr="Domestic Transfer BOOKTRF" rpt_type="txn_type" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="FTDRIVDT" rpt_descr="Fund Transfer Derived Date" rpt_type="AT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="PAYEWFLST" rpt_descr="Payee Workflow List" rpt_type="AT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="Other" rpt_descr="Others" rpt_type="INBOX_SERVICE_REQUEST" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="BPPWFLIST" rpt_descr="BillPayeeWList" rpt_type="AT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="PAYMENT_IT PAYMENT_DT PAYMENT_TT" flex_field2="" flex_field3="" language_code="EN" rpt_code="D" rpt_descr="Draft" rpt_type="DB_TRANS_SP_USER_WF" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="BPPBLRLST" rpt_descr="biller List" rpt_type="AT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="PAYMENT_BP_SI" flex_field2="" flex_field3="" language_code="EN" rpt_code="A" rpt_descr="Fully Approved" rpt_type="DB_BP_SI_USER_WF" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="IC" rpt_descr="Incomplete" rpt_type="DB_ALL_FINANCIAL_USER_WF" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="ACCLOCDTL" rpt_descr="LetterOfCreditAccountSummaryD" rpt_type="AT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="PRINIT" rpt_descr="This is an Init Service" rpt_type="AT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="SERVICE_REQUEST" rpt_descr="Service Request" rpt_type="MESSAGE_INBOX_COMPOSE_CATEGORY" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="20102" rpt_descr="Grants to foreign government and international bodies" rpt_type="PURPOSE_OF_PAYMENT_TT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="BPINS" rpt_descr="Bill Payment Insert" rpt_type="AT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="20304" rpt_descr="Brunei residents purchases of shares in companies abroad, other than shares in their own subsidiaries" rpt_type="PURPOSE_OF_PAYMENT_TT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="TRFSI" rpt_descr="Transfers SI" rpt_type="AT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="PAYMENT_DT PAYMENT_TT" flex_field2="" flex_field3="" language_code="EN" rpt_code="F" rpt_descr="Failed" rpt_type="DB_TRANS_BT_BANK_WF" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="11005" rpt_descr="Other refunds" rpt_type="PURPOSE_OF_PAYMENT_TT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="BPSIDRF" rpt_descr="Bill Payment SI Draft" rpt_type="AT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="PAYMENT_BP" flex_field2="" flex_field3="" language_code="EN" rpt_code="PA" rpt_descr="Pending Approval" rpt_type="DB_BP_USER_WF" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="PAYROLL_UPLOAD" flex_field2="" flex_field3="" language_code="EN" rpt_code="F" rpt_descr="Failed" rpt_type="DB_PAYROLL_BANK_WF" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="FTSIWFLST" rpt_descr="Fund Transfer SI WF List" rpt_type="AT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="SIDOMESTICACH" rpt_descr="Si Domestic Transfer  ACH" rpt_type="txn_type" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="TRFBENE" rpt_descr="Transfers Beneficiary" rpt_type="AT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="PAYMENT_FT_SI" flex_field2="" flex_field3="" language_code="EN" rpt_code="REP" rpt_descr="Pending Repair" rpt_type="DB_TRANS_SI_USER_WF" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="SIDEBAR" rpt_descr="Side Bar Service" rpt_type="AT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="PAYMENT_FT_SI" flex_field2="" flex_field3="" language_code="EN" rpt_code="IC" rpt_descr="Incomplete" rpt_type="DB_TRANS_SI_USER_WF" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="20604" rpt_descr="Currencies and deposits with monetary authorities" rpt_type="PURPOSE_OF_PAYMENT_TT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="PAYMENT_BP_SI" flex_field2="" flex_field3="" language_code="EN" rpt_code="PAP" rpt_descr="Partially Approved" rpt_type="DB_BP_SI_USER_WF" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="FTSIINS" rpt_descr="Fund Transfer SI Submit" rpt_type="AT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="HARD" rpt_descr="Physical Token" rpt_type="AUTH_TYPE" status="Y"/>
+    <reportCode display_seq="2" flags="" flex_field1="PAYMENT_DT PAYMENT_IT PAYMENT_TT" flex_field2="" flex_field3="" language_code="EN" rpt_code="SINGLE" rpt_descr="Single Payment" rpt_type="SP_OPTION_LIST" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="Gold" rpt_descr="Gold" rpt_type="LNK_TEMP_CUSTOMER_SEGMENT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="ACCLOCBI" rpt_descr="LetterOfCreditAccountBalance" rpt_type="AT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="TTTT" rpt_descr="Telegraphic Transfer TT" rpt_type="txn_type" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="PA" rpt_descr="Pending Approval" rpt_type="DB_ALL_NON_FINANCIAL_USER_WF" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="MIREPLY" rpt_descr="Message Inbox Reply service" rpt_type="AT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="10201" rpt_descr="Sea transport-Passenger fares" rpt_type="PURPOSE_OF_PAYMENT_TT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="10208" rpt_descr="Other transport-Freight" rpt_type="PURPOSE_OF_PAYMENT_TT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="TLCADFT" rpt_descr="LC Amendment Draft" rpt_type="AT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="TRADE_BANK_GUARANTEE" flex_field2="" flex_field3="" language_code="EN" rpt_code="SB" rpt_descr="SentToBank" rpt_type="DB_BANK_GAU_BANK_WF" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="PAYMENT_BP_SI" flex_field2="" flex_field3="" language_code="EN" rpt_code="D" rpt_descr="Draft" rpt_type="DB_BP_SI_USER_WF" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="10103" rpt_descr="Repairs on goods" rpt_type="PURPOSE_OF_PAYMENT_TT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="20524" rpt_descr="Provident fund/Trust fund" rpt_type="PURPOSE_OF_PAYMENT_TT" status="Y"/>
+    <reportCode display_seq="3" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="VALUE3" rpt_descr="By Payment at Sight" rpt_type="LC_CREDIT_AVAILABLE" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="20503" rpt_descr="Cheques paid by resident institution to non-resident individual" rpt_type="PURPOSE_OF_PAYMENT_TT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="PAYROLL_UPLOAD" flex_field2="" flex_field3="" language_code="EN" rpt_code="A" rpt_descr="Fully Approved" rpt_type="DB_PAYROLL_USER_WF" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="11103" rpt_descr="Audiovisual and related services" rpt_type="PURPOSE_OF_PAYMENT_TT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="LOGOUTCFM" rpt_descr="LOGOUT CONFIRMATION" rpt_type="AT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="IT01" rpt_descr="IT01" rpt_type="LNK_TEMP_PRODUCT_SUB_CODE" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="PRSTOP" rpt_descr="Payroll Stop Service" rpt_type="AT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="10302" rpt_descr="Foreign currency notes sold for use abroad" rpt_type="PURPOSE_OF_PAYMENT_TT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="FTSIVAL" rpt_descr="Fund transfer SI Validate" rpt_type="AT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="PAYMENT_IT PAYMENT_DT PAYMENT_TT" flex_field2="" flex_field3="" language_code="EN" rpt_code="P" rpt_descr="Future Date" rpt_type="DB_TRANS_SP_BANK_WF" status="Y"/>
+    <reportCode display_seq="1" flags="" flex_field1="PAYMENT_BP" flex_field2="" flex_field3="" language_code="EN" rpt_code="SINGLE" rpt_descr="Bill Payment" rpt_type="BP_OPTION_LIST" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="SIBILLPAY" rpt_descr="SI BILL PAYE" rpt_type="txn_type" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="TSGWFDEL" rpt_descr="Shipping Guarantee Delete" rpt_type="AT" status="Y"/>
+    <reportCode display_seq="2" flags="" flex_field1="PAYMENT_DT PAYMENT_TT" flex_field2="" flex_field3="" language_code="EN" rpt_code="DB_TRANS_BT" rpt_descr="Batch Transfers" rpt_type="DB_PAY_METHOD_FIN" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="PAYMENT_BP_SI" flex_field2="" flex_field3="" language_code="EN" rpt_code="REJ" rpt_descr="Rejected" rpt_type="DB_BP_SI_USER_WF" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="PAP" rpt_descr="Partially Approved" rpt_type="DB_ALL_FINANCIAL_USER_WF" status="Y"/>
+    <reportCode display_seq="10" flags="" flex_field1="TRADE_LA_DISCREPANCY" flex_field2="TRADE_LA_DISCREPANCY" flex_field3="" language_code="EN" rpt_code="DB_LOA" rpt_descr="Letter of Acceptance" rpt_type="DB_PAY_METHOD_NON_FIN" status="Y"/>
+    <reportCode display_seq="2" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="VALUE2" rpt_descr="Acceptance" rpt_type="LC_CREDIT_AVAILABLE" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="DOMESTIC" rpt_descr="Domestic Transfer" rpt_type="txn_type" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="ACCHPTXN" rpt_descr="HirePurchaseDetTxnHistService" rpt_type="AT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="20402" rpt_descr="Brunei residents purchases of foreign government bonds from non-residents" rpt_type="PURPOSE_OF_PAYMENT_TT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="10501" rpt_descr="Construction services" rpt_type="PURPOSE_OF_PAYMENT_TT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="TRADE_LC_AMENDMENT" flex_field2="" flex_field3="" language_code="EN" rpt_code="A" rpt_descr="Fully Approved" rpt_type="DB_LOC_USER_WF" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="PRWFVIEW" rpt_descr="Payroll Workflow View" rpt_type="AT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="REJ" rpt_descr="Rejected" rpt_type="DB_ALL_FINANCIAL_USER_WF" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="10309" rpt_descr="Other travel payments, e.g. for package tours" rpt_type="PURPOSE_OF_PAYMENT_TT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="PRRETRY" rpt_descr="Payroll Retry Service" rpt_type="AT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="BP" rpt_descr="Bill Payment" rpt_type="MESSAGE_INBOX_COMPOSE_CATEGORY" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="PAYMENT_IT PAYMENT_DT PAYMENT_TT" flex_field2="" flex_field3="" language_code="EN" rpt_code="PA" rpt_descr="Pending Approval" rpt_type="DB_TRANS_SP_USER_WF" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="DBUWFLST" rpt_descr="Statistics User Workflow List" rpt_type="AT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="11601" rpt_descr="Remittances for family maintenance" rpt_type="PURPOSE_OF_PAYMENT_TT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="FINTXN_FT_COY_DAILY_LIMIT" flex_field2="" flex_field3="" language_code="EN" rpt_code="FT_LIMIT" rpt_descr="Fund Transfer" rpt_type="COMPANY_LIMIT_SERVICES" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="FTSIVIEW" rpt_descr="Fund Transfer SI View" rpt_type="AT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="DBUWFCNT" rpt_descr="Statistics User Workflow Count" rpt_type="AT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="RETB" rpt_descr="Retention Bond" rpt_type="BANK_GUARANTEE_TYPE" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="PAYMENT_FT_SI" flex_field2="" flex_field3="" language_code="EN" rpt_code="REJ" rpt_descr="Rejected" rpt_type="DB_TRANS_SI_USER_WF" status="Y"/>
+    <reportCode display_seq="1" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="VALUE1" rpt_descr="Deferred" rpt_type="LC_CREDIT_AVAILABLE" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="11002" rpt_descr="Charter of ships and aircrafts without operators" rpt_type="PURPOSE_OF_PAYMENT_TT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="PAYEE_BP" flex_field2="" flex_field3="" language_code="EN" rpt_code="REP" rpt_descr="Pending Repair" rpt_type="DB_BILRPAY_USER_WF" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="PAYMENT_FT_SI" flex_field2="" flex_field3="" language_code="EN" rpt_code="A" rpt_descr="Fully Approved" rpt_type="DB_TRANS_SI_USER_WF" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="11403" rpt_descr="Head office remittances to meet losses of branches abroad" rpt_type="PURPOSE_OF_PAYMENT_TT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="PAYMENT_FT_SI" flex_field2="" flex_field3="" language_code="EN" rpt_code="DEL" rpt_descr="Delete" rpt_type="DB_TRANS_SI_USER_WF" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="11301" rpt_descr="Salaries and allowances paid by Brunei resident firms to non-residents" rpt_type="PURPOSE_OF_PAYMENT_TT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="PAYMENT_BP" flex_field2="" flex_field3="" language_code="EN" rpt_code="P" rpt_descr="Future Dated" rpt_type="DB_BP_BANK_WF" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="PAYMENT_DT PAYMENT_TT" flex_field2="" flex_field3="" language_code="EN" rpt_code="A" rpt_descr="Fully Approved" rpt_type="DB_TRANS_BT_USER_WF" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="ACCHPDTL" rpt_descr="Hire Purchase Detail" rpt_type="AT" status="Y"/>
+    <reportCode display_seq="4" flags="" flex_field1="PAYMENT_BP" flex_field2="" flex_field3="" language_code="EN" rpt_code="DB_BP" rpt_descr="Bill Payments" rpt_type="DB_PAY_METHOD_FIN" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="FTSIWFLIS" rpt_descr="Fund Transfer SI Workflow List" rpt_type="AT" status="Y"/>
+    <reportCode display_seq="3" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="FOB" rpt_descr="FOB" rpt_type="LC_TERMS" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="STP" rpt_descr="Stopped" rpt_type="txn_status" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="BILLPAYBILLPAY" rpt_descr="Bill Payment BILLPAY" rpt_type="txn_type" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="20607" rpt_descr="Securities (bonds and notes)" rpt_type="PURPOSE_OF_PAYMENT_TT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="ACCGSBI" rpt_descr="GuaranteeAccount" rpt_type="AT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="PAYROLL_UPLOAD" flex_field2="" flex_field3="" language_code="EN" rpt_code="REP" rpt_descr="Pending Repair" rpt_type="DB_PAYROLL_USER_WF" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="YEAR" rpt_descr="Years" rpt_type="FREQUENCY_INDICATOR" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="PAYMENT_BP_SI" flex_field2="" flex_field3="" language_code="EN" rpt_code="DEL" rpt_descr="Delete" rpt_type="DB_BP_SI_USER_WF" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="USER_CLASSIFICATION3" rpt_descr="Classification 3" rpt_type="CORP_USER_LBL" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="20308" rpt_descr="Repayment from Brunei head office, or by a branch or subsidiary, of short-term loans (less than a year) (non-financial institution)" rpt_type="PURPOSE_OF_PAYMENT_TT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="F" rpt_descr="Failure" rpt_type="txn_status" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="TLADVIEW" rpt_descr="LA Discrepancy View" rpt_type="AT" status="Y"/>
+    <reportCode display_seq="12" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="PHP" rpt_descr="Philippine Peso" rpt_type="TRADE_CURRENCY" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="FXTOOL" rpt_descr="ForexSummaryList" rpt_type="AT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="PAYMENT_BP" flex_field2="" flex_field3="" language_code="EN" rpt_code="PAP" rpt_descr="Partially Approved" rpt_type="DB_BP_USER_WF" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="OPRACCLBI" rpt_descr="OperativeAccountSummaryBalance" rpt_type="AT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="USER_CLASSIFICATION4" rpt_descr="Classification 4" rpt_type="CORP_USER_LBL" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="20301" rpt_descr="Withdrawal of investment by non-resident firms from their branches or subsidiaries in Brunei" rpt_type="PURPOSE_OF_PAYMENT_TT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="TRANSFERS" rpt_descr="Transfer" rpt_type="INBOX_SERVICE_REQUEST" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="TRADE_SHIPPING_GUARANTEE" flex_field2="" flex_field3="" language_code="EN" rpt_code="DRA" rpt_descr="Draft" rpt_type="DB_SHIP_GUAR_USER_WF" status="Y"/>
+    <reportCode display_seq="6" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="NZD" rpt_descr="New Zealand Dollar" rpt_type="TRADE_CURRENCY" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="PAYEE_FT" flex_field2="" flex_field3="" language_code="EN" rpt_code="PA" rpt_descr="Pending Approval" rpt_type="DB_BENIF_USER_WF" status="Y"/>
+    <reportCode display_seq="7" flags="" flex_field1="SR_DEMAND_DRAFT" flex_field2="DEMAND_DRAFT" flex_field3="" language_code="EN" rpt_code="DB_DD" rpt_descr="Demand Draft" rpt_type="DB_PAY_METHOD_NON_FIN" status="Y"/>
+    <reportCode display_seq="6" flags="" flex_field1="PAYMENT_IT PAYMENT_DT PAYMENT_TT" flex_field2="" flex_field3="" language_code="EN" rpt_code="DB_TRANS_SP" rpt_descr="Single Payment Transfers" rpt_type="DB_PAY_METHOD_FIN" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="CLASSIFICATION3" rpt_descr="Org Classification 3" rpt_type="CORP_ENTITY_LBL" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="PAYMENT_FT_SI" flex_field2="" flex_field3="" language_code="EN" rpt_code="F" rpt_descr="Failed" rpt_type="DB_TRANS_SI_BANK_WF" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="MICOMPOS" rpt_descr="Message Inbox Compose Service" rpt_type="AT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="TRADE_LC" flex_field2="" flex_field3="" language_code="EN" rpt_code="A" rpt_descr="Fully Approved" rpt_type="DB_IRLOC_USER_WF" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="20521" rpt_descr="Inter-bank clearing settlements" rpt_type="PURPOSE_OF_PAYMENT_TT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="TRADE_BANK_GUARANTEE" flex_field2="" flex_field3="" language_code="EN" rpt_code="DRA" rpt_descr="Draft" rpt_type="DB_BANK_GAU_USER_WF" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="10106" rpt_descr="Non-monetary gold (other)" rpt_type="PURPOSE_OF_PAYMENT_TT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="REP" rpt_descr="Pending Repair" rpt_type="DB_ALL_FINANCIAL_USER_WF" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="FTSIINIT" rpt_descr="Fund Transfer SI Init " rpt_type="AT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="BILLPAYSI" rpt_descr="Bill Payment SI" rpt_type="AT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="PAYROLL_UPLOAD" flex_field2="" flex_field3="" language_code="EN" rpt_code="PA" rpt_descr="Pending Approval" rpt_type="DB_PAYROLL_USER_WF" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="SIBILLPAYBILLPAY" rpt_descr="Si Bill payment BILLPAY" rpt_type="txn_type" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="10306" rpt_descr="Hotel and lodging expenses for visits abroad by Brunei residents" rpt_type="PURPOSE_OF_PAYMENT_TT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="BILLPAY" rpt_descr="BILL PAYMENTS" rpt_type="txn_type" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="PAYMENT_IT PAYMENT_DT PAYMENT_TT" flex_field2="" flex_field3="" language_code="EN" rpt_code="S" rpt_descr="Success" rpt_type="DB_TRANS_SP_BANK_WF" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="PRWFLIST" rpt_descr="Payroll Workflow List" rpt_type="AT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="SOFT" rpt_descr="Secure Mobile Token" rpt_type="AUTH_TYPE" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="20106" rpt_descr="Other sectors-Others" rpt_type="PURPOSE_OF_PAYMENT_TT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="TRFTEMP" rpt_descr="Transfers Template" rpt_type="AT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="REP" rpt_descr="Pending Repair" rpt_type="DB_ALL_NON_FINANCIAL_USER_WF" status="Y"/>
+    <reportCode display_seq="2" flags="" flex_field1="SR_ACCOUNT_SWEEP" flex_field2="ACCOUNT_SWEEPS" flex_field3="" language_code="EN" rpt_code="DB_ACCT_SWP" rpt_descr="Account Sweeps" rpt_type="DB_PAY_METHOD_NON_FIN" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="LNHPLST" rpt_descr="LoanHirePurchaseListService" rpt_type="AT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="20517" rpt_descr="Brunei residents repayments on long-term loans received from abroad" rpt_type="PURPOSE_OF_PAYMENT_TT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="PAYMENT_DT PAYMENT_TT" flex_field2="" flex_field3="" language_code="EN" rpt_code="REJ" rpt_descr="Rejected" rpt_type="DB_TRANS_BT_USER_WF" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="PAYMENT_BP" flex_field2="" flex_field3="" language_code="EN" rpt_code="A" rpt_descr="Fully Approved" rpt_type="DB_BP_USER_WF" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="BAFTINIT" rpt_descr="BatchInitTransfer" rpt_type="AT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="PAYROLL" flex_field2="" flex_field3="" language_code="EN" rpt_code="PWF" rpt_descr="Processed with Failures" rpt_type="PAYROLL_LIST_STATUS" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="PAYROLL" flex_field2="" flex_field3="" language_code="EN" rpt_code="F" rpt_descr="Failed" rpt_type="PAYROLL_LIST_STATUS" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="10205" rpt_descr="Air transport-Freight" rpt_type="PURPOSE_OF_PAYMENT_TT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="20510" rpt_descr="Short-term loans (less than a year) extended from Brunei from head office, or from a branch or subsidiary (financial institution)" rpt_type="PURPOSE_OF_PAYMENT_TT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="CUSG" rpt_descr="Custom Guarantee" rpt_type="BANK_GUARANTEE_TYPE" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="20506" rpt_descr="Refunds on unspecified cheque payment" rpt_type="PURPOSE_OF_PAYMENT_TT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="TLADINIT" rpt_descr="LA Discrepancy Init" rpt_type="AT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="F" rpt_descr="Failed" rpt_type="DB_ALL_FINANCIAL_BANK_WF" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="ACCGSLST" rpt_descr="GuaranteeAccountList" rpt_type="AT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="PAYMENT_FT_SI" flex_field2="" flex_field3="" language_code="EN" rpt_code="STP" rpt_descr="Stopped" rpt_type="DB_TRANS_SI_BANK_WF" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="PAYMENT_DT PAYMENT_TT" flex_field2="" flex_field3="" language_code="EN" rpt_code="PF" rpt_descr="Processed with Failures" rpt_type="DB_TRANS_BT_BANK_WF" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="P" rpt_descr="Future Date" rpt_type="txn_status" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="ACCFXSLST" rpt_descr="Forex List" rpt_type="AT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="10301" rpt_descr="Remittances for educational purposes" rpt_type="PURPOSE_OF_PAYMENT_TT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="11501" rpt_descr="Income tax, property tax, etc." rpt_type="PURPOSE_OF_PAYMENT_TT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="20305" rpt_descr="Transfers to main account" rpt_type="PURPOSE_OF_PAYMENT_TT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="SB" rpt_descr="Send To Bank" rpt_type="txn_status" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="BPCOPY" rpt_descr="Bill Payment Copy" rpt_type="AT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="PAYEE_BP" flex_field2="" flex_field3="" language_code="EN" rpt_code="REJ" rpt_descr="Rejected" rpt_type="DB_BILRPAY_USER_WF" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="PA" rpt_descr="Pending Approval" rpt_type="DB_ALL_FINANCIAL_USER_WF" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="BPBILLER" rpt_descr="BP BILLER Detail" rpt_type="AT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="TSPGRSUB" rpt_descr="Shipping Guarantee Submit" rpt_type="AT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="FFINIT" rpt_descr="File Format Init List" rpt_type="AT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="20511" rpt_descr="Long-term loans (more than a year) extended from Brunei from head office, or from a branch or subsidiary (financial institution)" rpt_type="PURPOSE_OF_PAYMENT_TT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="TRADE_LC" flex_field2="" flex_field3="" language_code="EN" rpt_code="SB" rpt_descr="Sent To Bank" rpt_type="DB_IRLOC_BANK_WF" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="DEPACCLST" rpt_descr="DepAccSumListService" rpt_type="AT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="10308" rpt_descr="Refunds on car rentals" rpt_type="PURPOSE_OF_PAYMENT_TT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="TLCVAL" rpt_descr="LC ValidateService" rpt_type="AT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="BPWFINS" rpt_descr="BillPayeeInsertService" rpt_type="AT" status="Y"/>
+    <reportCode display_seq="5" flags="" flex_field1="PAYROLL_UPLOAD" flex_field2="" flex_field3="" language_code="EN" rpt_code="DB_PAYROLL" rpt_descr="Payroll" rpt_type="DB_PAY_METHOD_FIN" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="11602" rpt_descr="Gift or donations" rpt_type="PURPOSE_OF_PAYMENT_TT" status="Y"/>
+    <reportCode display_seq="7" flags="" flex_field1="PAYMENT_FT_SI" flex_field2="" flex_field3="" language_code="EN" rpt_code="DB_TRANS_SI" rpt_descr="Transfers Si" rpt_type="DB_PAY_METHOD_FIN" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="TSPGVIEW" rpt_descr="Shipping Guarantee View" rpt_type="AT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="PAYMENT_BP_SI" flex_field2="" flex_field3="" language_code="EN" rpt_code="S" rpt_descr="Success" rpt_type="DB_BP_SI_BANK_WF" status="Y"/>
+    <reportCode display_seq="2" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="C&amp;F" rpt_descr="C&amp;F" rpt_type="LC_TERMS" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="Y" rpt_descr="Batch Fund Transfer Show Flag" rpt_type="BATCH_FT_SHOW" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="FTPMTCCY" rpt_descr="FT Payment Currencies" rpt_type="AT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="TLCAVIEW" rpt_descr="LC Amendment View" rpt_type="AT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="10207" rpt_descr="Other transport-Passenger fares" rpt_type="PURPOSE_OF_PAYMENT_TT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="STOP PAYMENT" rpt_descr="STOP PAYMENT" rpt_type="INBOX_SERVICE_REQUEST" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="10104" rpt_descr="Goods procured in ports by carriers" rpt_type="PURPOSE_OF_PAYMENT_TT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="PRLISTVW" rpt_descr="Payroll List View" rpt_type="AT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="MFTPUPD" rpt_descr="Manage FT Payee UPDATE" rpt_type="AT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="10702" rpt_descr="Underwriting fees" rpt_type="PURPOSE_OF_PAYMENT_TT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="BPPDDLST" rpt_descr="BP Payee DropDown List" rpt_type="AT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="BAFTINLST" rpt_descr="Batch Fund Transfer Init List" rpt_type="AT" status="Y"/>
+    <reportCode display_seq="3" flags="" flex_field1="PAYMENT_BP_SI" flex_field2="" flex_field3="" language_code="EN" rpt_code="DB_BP_SI" rpt_descr="Bill Payment SI" rpt_type="DB_PAY_METHOD_FIN" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="FTBINLST" rpt_descr="Batch Fund Transfer Init List" rpt_type="AT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="BPWFDEL" rpt_descr="Bill Payment Delete" rpt_type="AT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="BPPWFAPOV" rpt_descr="BillPayeeAproval" rpt_type="AT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="FXRATE" rpt_descr="FxRate Dashboard" rpt_type="AT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="PAYMENT_BP" flex_field2="" flex_field3="" language_code="EN" rpt_code="REP" rpt_descr="Pending Repair" rpt_type="DB_BP_USER_WF" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="PAYROLL_UPLOAD" flex_field2="" flex_field3="" language_code="EN" rpt_code="P" rpt_descr="Future Date" rpt_type="DB_PAYROLL_BANK_WF" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="PAYMENT_FT_SI" flex_field2="" flex_field3="" language_code="EN" rpt_code="D" rpt_descr="Draft" rpt_type="DB_TRANS_SI_USER_WF" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="20103" rpt_descr="Migrants transfers" rpt_type="PURPOSE_OF_PAYMENT_TT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="BPMLINIT" rpt_descr="BP Manage List Init" rpt_type="AT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="PAYMENT_DT PAYMENT_TT" flex_field2="" flex_field3="" language_code="EN" rpt_code="PA" rpt_descr="Pending Approval" rpt_type="DB_TRANS_BT_USER_WF" status="Y"/>
+    <reportCode display_seq="1" flags="" flex_field1="PAYMENT_DT PAYMENT_IT PAYMENT_TT" flex_field2="" flex_field3="" language_code="EN" rpt_code="BATCH" rpt_descr="Batch Payment" rpt_type="SP_OPTION_LIST" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="11102" rpt_descr="Refunds on subscription and fees" rpt_type="PURPOSE_OF_PAYMENT_TT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="TLCASUB" rpt_descr="LC Amendment Submit" rpt_type="AT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="11004" rpt_descr="Fees for management, consultancy or other professional services" rpt_type="PURPOSE_OF_PAYMENT_TT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="PAYMENT_DT PAYMENT_TT" flex_field2="" flex_field3="" language_code="EN" rpt_code="D" rpt_descr="Draft" rpt_type="DB_TRANS_BT_USER_WF" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="TRADE_LC_AMENDMENT" flex_field2="" flex_field3="" language_code="EN" rpt_code="DRA" rpt_descr="Draft" rpt_type="DB_LOC_USER_WF" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="TRADE_SHIPPING_GUARANTEE" flex_field2="" flex_field3="" language_code="EN" rpt_code="SB" rpt_descr="SentToBank" rpt_type="DB_SHIP_GUAR_BANK_WF" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="TLCAAPV" rpt_descr="LC Amendment Approve" rpt_type="AT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="TBNKGVIEW" rpt_descr="Bank Guarantee View" rpt_type="AT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="10601" rpt_descr="Merchandise insurance premiums paid (on exports and imports)" rpt_type="PURPOSE_OF_PAYMENT_TT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="SPBLST" rpt_descr="Stop Payment Batch List" rpt_type="AT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="USER_CLASSIFICATION1" rpt_descr="Classification 1" rpt_type="CORP_USER_LBL" status="Y"/>
+    <reportCode display_seq="3" flags="" flex_field1="PAYMENT_FT_SI" flex_field2="" flex_field3="" language_code="EN" rpt_code="SI" rpt_descr="Standing Instruction" rpt_type="FT_OPTION_LIST" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="ACCTRBI" rpt_descr="Trust Receipt Balance" rpt_type="AT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="DBPFPERS" rpt_descr="DashboardProfile" rpt_type="AT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="PAYMENT_FT_TEMPLATE" flex_field2="" flex_field3="" language_code="EN" rpt_code="A" rpt_descr="Approved" rpt_type="DB_TMPLT_USER_WF" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="DEEPLINK" rpt_descr="DeepLink" rpt_type="AT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="PAYMENT_FT_SI" flex_field2="" flex_field3="" language_code="EN" rpt_code="PA" rpt_descr="Pending Approval" rpt_type="DB_TRANS_SI_USER_WF" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="20601" rpt_descr="Monetary gold" rpt_type="PURPOSE_OF_PAYMENT_TT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="FINTXN_BP_COY_DAILY_LIMIT" flex_field2="" flex_field3="" language_code="EN" rpt_code="BP_LIMIT" rpt_descr="Bill Payments" rpt_type="COMPANY_LIMIT_SERVICES" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="PAYMENT_BP" flex_field2="" flex_field3="" language_code="EN" rpt_code="IC" rpt_descr="Incomplete" rpt_type="DB_BP_USER_WF" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="DBSTATPM" rpt_descr="Statistics Payment Method" rpt_type="AT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="DANOTFDEL" rpt_descr="DashboardNotfctnDeleteService" rpt_type="AT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="FTTEMINS" rpt_descr="FT Template Submit Service" rpt_type="AT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="SPTXNV" rpt_descr="STOP PAYMENT VIEW" rpt_type="AT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="PAYEE_BP" flex_field2="" flex_field3="" language_code="EN" rpt_code="A" rpt_descr="Fully Approved" rpt_type="DB_BILRPAY_USER_WF" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="LNTRDTL" rpt_descr="LoanTrustReceiptDetailService" rpt_type="AT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="PRUPLVW" rpt_descr="Payroll Upload List View" rpt_type="AT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="SPACTN" rpt_descr="StopPaymentAction" rpt_type="AT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="PAYROLL" flex_field2="" flex_field3="" language_code="EN" rpt_code="F" rpt_descr="Failed" rpt_type="PAYROLL_UPL_LIST_STATUS" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="PAYEE_FT" flex_field2="" flex_field3="" language_code="EN" rpt_code="A" rpt_descr="Fully Approved" rpt_type="DB_BENIF_USER_WF" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="TLCDRF" rpt_descr="LC Draft Service" rpt_type="AT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="SPLST" rpt_descr="Stop Payment List" rpt_type="AT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="20309" rpt_descr="Repayment from Brunei head office, or by a branch or subsidiary, of long-term loans (more than a year) (non-financial institution)" rpt_type="PURPOSE_OF_PAYMENT_TT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="20514" rpt_descr="Disbursement of short-term loans to non-residents" rpt_type="PURPOSE_OF_PAYMENT_TT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="TRADE_LC" flex_field2="" flex_field3="" language_code="EN" rpt_code="DRA" rpt_descr="Draft" rpt_type="DB_IRLOC_USER_WF" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="P" rpt_descr="Future Date" rpt_type="DB_ALL_FINANCIAL_BANK_WF" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="HPQVS" rpt_descr="HRQuoteValidateService" rpt_type="AT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="ACCOBCLST" rpt_descr="Bill CollectionOutward Service" rpt_type="AT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="MPINCNG" rpt_descr="ChangeMPinService" rpt_type="AT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="FCHGPASS" rpt_descr="ForceChangePasswordService" rpt_type="AT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="20302" rpt_descr="Brunei residents purchases of land and property abroad from non-residents" rpt_type="PURPOSE_OF_PAYMENT_TT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="FTPLIST" rpt_descr="List Of Payee" rpt_type="AT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="TRADE_LA_DISCREPANCY" flex_field2="" flex_field3="" language_code="EN" rpt_code="SB" rpt_descr="SentToBank" rpt_type="DB_LOA_BANK_WF" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="SR_ACCOUNT_SWEEP" flex_field2="" flex_field3="" language_code="EN" rpt_code="A" rpt_descr="Fully Approved" rpt_type="DB_ACCT_SWP_USER_WF" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="11001" rpt_descr="Hire of equipment" rpt_type="PURPOSE_OF_PAYMENT_TT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="PAYMENT_IT PAYMENT_DT PAYMENT_TT" flex_field2="" flex_field3="" language_code="EN" rpt_code="REJ" rpt_descr="Rejected" rpt_type="DB_TRANS_SP_USER_WF" status="Y"/>
+    <reportCode display_seq="11" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="JPY" rpt_descr="Japanese Yen" rpt_type="TRADE_CURRENCY" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="FTVAL" rpt_descr="Fund Transfer Validation" rpt_type="AT" status="Y"/>
+    <reportCode display_seq="4" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="Others" rpt_descr="Others" rpt_type="LC_TERMS" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="DOMESTICACH" rpt_descr="Domestic Transfer ACH" rpt_type="txn_type" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="ES" rpt_descr="EMAIL SMS OTP" rpt_type="AUTH_TYPE" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="DAY" rpt_descr="Days" rpt_type="FREQUENCY_INDICATOR" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="OTHERS" rpt_descr="Guarantee Others" rpt_type="BANK_GUARANTEE_TYPE" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="PAYMENT_IT PAYMENT_DT PAYMENT_TT" flex_field2="" flex_field3="" language_code="EN" rpt_code="A" rpt_descr="Fully Approved" rpt_type="DB_TRANS_SP_USER_WF" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="10204" rpt_descr="Air transport-Passenger fares" rpt_type="PURPOSE_OF_PAYMENT_TT" status="Y"/>
+    <reportCode display_seq="2" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="GBP" rpt_descr="Sterling Pound" rpt_type="TRADE_CURRENCY" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="LAOVRINIT" rpt_descr="LoanAccountSummaryOverviewInit" rpt_type="AT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="20201" rpt_descr="Acquisition/disposal of non-produced, non-financial assets" rpt_type="PURPOSE_OF_PAYMENT_TT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="Internal Transfer" rpt_descr="Internal Transfer" rpt_type="LNK_TEMP_PRODUCT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="20608" rpt_descr="Securities (money market instruments and financial derivatives)" rpt_type="PURPOSE_OF_PAYMENT_TT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="LNHPDTL" rpt_descr="LoanHirePurchaseDetailService" rpt_type="AT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="PAYMENT_BP_SI" flex_field2="" flex_field3="" language_code="EN" rpt_code="F" rpt_descr="Failed" rpt_type="DB_BP_SI_BANK_WF" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="S" rpt_descr="Success" rpt_type="txn_status" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="SPACTINIT" rpt_descr="STOP PAYMENT INIT" rpt_type="AT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="FTBVIEW" rpt_descr="Batch Fund Transfer View" rpt_type="AT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="SR_DEMAND_DRAFT" flex_field2="" flex_field3="" language_code="EN" rpt_code="SB" rpt_descr="Sent To Bank" rpt_type="DB_DD_BANK_WF" status="Y"/>
+    <reportCode display_seq="13" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="SAR" rpt_descr="Saudi Arabian Riyal" rpt_type="TRADE_CURRENCY" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="11404" rpt_descr="Dividends" rpt_type="PURPOSE_OF_PAYMENT_TT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="PAYROLL_UPLOAD" flex_field2="" flex_field3="" language_code="EN" rpt_code="REJ" rpt_descr="Rejected" rpt_type="DB_PAYROLL_USER_WF" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="LNHPRINIT" rpt_descr="LoanHirePurchaseInitService" rpt_type="AT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="SPACTSUB" rpt_descr="STOP PAYMENT SUBMIT" rpt_type="AT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="TLCAPV" rpt_descr="LC Approve Service" rpt_type="AT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="MPINSET" rpt_descr="MpinSetupService" rpt_type="AT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="20507" rpt_descr="Life insurance premiums paid" rpt_type="PURPOSE_OF_PAYMENT_TT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="Bill Payments" rpt_descr="Bill Payments" rpt_type="INBOX_SERVICE_REQUEST" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="Feedback" rpt_descr="Feedback" rpt_type="INBOX_SERVICE_REQUEST" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="A" rpt_descr="Fully Approved" rpt_type="DB_ALL_NON_FINANCIAL_USER_WF" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="LNTRPINIT" rpt_descr="LoanTrustReceiptInitService" rpt_type="AT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="MIDETAIL" rpt_descr="Message Inbox Detail Service" rpt_type="AT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="LNTRLST" rpt_descr="LoanTrustReceiptListService" rpt_type="AT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="OPRACCREP" rpt_descr="Operative Account Statement Re" rpt_type="AT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="MIBXCINIT" rpt_descr="Message Compose Init" rpt_type="AT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="MONTH" rpt_descr="Months" rpt_type="FREQUENCY_INDICATOR" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="LO" rpt_code="USER_CLASSIFICATION2" rpt_descr="Classification 2" rpt_type="CORP_USER_LBL" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="20522" rpt_descr="Funding-Other Investments" rpt_type="PURPOSE_OF_PAYMENT_TT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="ACCOLLST" rpt_descr="Overall Limit List" rpt_type="AT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="A" rpt_descr="Fully Approved" rpt_type="DB_ALL_FINANCIAL_USER_WF" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="10604" rpt_descr="Insurance refunds" rpt_type="PURPOSE_OF_PAYMENT_TT" status="Y"/>
+    <reportCode display_seq="7" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="CHF" rpt_descr="Swiss Franc" rpt_type="TRADE_CURRENCY" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="DANOTFDET" rpt_descr="DashboardNotfctnDetailService" rpt_type="AT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="ADVPAYG" rpt_descr=" Advance Payment Guarantee" rpt_type="BANK_GUARANTEE_TYPE" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="PAYEAPRV" rpt_descr="PayeeApproveService" rpt_type="AT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="TLADAPV" rpt_descr="LA Discrepancy Approve" rpt_type="AT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="ADOCINIT" rpt_descr="AdhoIntPayeeService" rpt_type="AT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="10305" rpt_descr="Credit card payments" rpt_type="PURPOSE_OF_PAYMENT_TT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="20518" rpt_descr="Purchases of foreign exchange from abroad" rpt_type="PURPOSE_OF_PAYMENT_TT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="BILLPAYEE" rpt_descr="Bill Payee" rpt_type="AT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="CHGPSWD" rpt_descr="CIB Change Password" rpt_type="AT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="LACCLBI" rpt_descr="LoanAccountSummaryBalances" rpt_type="AT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="TXNHSTLST" rpt_descr="TransactionListService" rpt_type="AT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="ACCCRDTXN" rpt_descr="Card Transaction" rpt_type="AT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="FTTEMLST" rpt_descr="Fund Trans Template List" rpt_type="AT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="SR_CHEQUE_REQUEST" flex_field2="" flex_field3="" language_code="EN" rpt_code="SB" rpt_descr="Sent To Bank" rpt_type="DB_CB_BANK_WF" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="PAYMENT_DT PAYMENT_TT" flex_field2="" flex_field3="" language_code="EN" rpt_code="PAP" rpt_descr="Partially Approved" rpt_type="DB_TRANS_BT_USER_WF" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="CHGPASS" rpt_descr="ChangePasswordService" rpt_type="AT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="TSPGRDFT" rpt_descr="ShippingGuaranteeDraft" rpt_type="AT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="BIDB" rpt_descr="BID Bond" rpt_type="BANK_GUARANTEE_TYPE" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="10206" rpt_descr="Air transport-Others(port expenses, charter of ships with operators, agents fees, etc.)" rpt_type="PURPOSE_OF_PAYMENT_TT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="PAYEE_FT" flex_field2="" flex_field3="" language_code="EN" rpt_code="REP" rpt_descr="Pending Repair" rpt_type="DB_BENIF_USER_WF" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="FTBINIT" rpt_descr="BatchInitTransfer" rpt_type="AT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="PRWFAPV" rpt_descr="Payroll Workflow Approve" rpt_type="AT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="10105" rpt_descr="Non-monetary gold (held as a store of value)" rpt_type="PURPOSE_OF_PAYMENT_TT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="10701" rpt_descr="Commissions" rpt_type="PURPOSE_OF_PAYMENT_TT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="SB" rpt_descr="Sent To Bank" rpt_type="DB_ALL_NON_FINANCIAL_BANK_WF" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="BPPSRCH" rpt_descr="BP Payee Search" rpt_type="AT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="20501" rpt_descr="Cheques paid by resident individual to non-resident individual" rpt_type="PURPOSE_OF_PAYMENT_TT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="11101" rpt_descr="Film rental" rpt_type="PURPOSE_OF_PAYMENT_TT" status="Y"/>
+    <reportCode display_seq="1" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="USD" rpt_descr="US Dollar" rpt_type="TRADE_CURRENCY" status="Y"/>
+    <reportCode display_seq="9" flags="" flex_field1="TRADE_LC_AMENDMENT" flex_field2="TRADE_LC" flex_field3="" language_code="EN" rpt_code="DB_LOC" rpt_descr="Letter Of Credit" rpt_type="DB_PAY_METHOD_NON_FIN" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="50" rpt_descr="Leaf" rpt_type="CHEQUE_BOOK_LEAVES" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="BANKLST" rpt_descr="Bank List" rpt_type="AT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="BPSILIST" rpt_descr="Bill Payment SI List" rpt_type="AT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="FRGTPASS" rpt_descr="ForgotPassword" rpt_type="AT" status="Y"/>
+    <reportCode display_seq="1" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="F" rpt_descr="Failure" rpt_type="DB_BANK_TXN_STATS" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="20508" rpt_descr="Residents transfers of fund into call or fixed deposits with banks abroad" rpt_type="PURPOSE_OF_PAYMENT_TT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="FXCONV" rpt_descr="Fx Conversion" rpt_type="AT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="FTDRF" rpt_descr="Fund Transfer Draft" rpt_type="AT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="PNAME" rpt_descr="PersonalisedNameService" rpt_type="AT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="PAYMENT_BP_SI" flex_field2="" flex_field3="" language_code="EN" rpt_code="STP" rpt_descr="Stopped" rpt_type="DB_BP_SI_BANK_WF" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="SR_ACCOUNT_SWEEP" flex_field2="" flex_field3="" language_code="EN" rpt_code="SB" rpt_descr="SentToBank" rpt_type="DB_ACCT_SWP_BANK_WF" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="SIDOMESTICBOOKTR" rpt_descr="Si Domestic Transfer BOOKTRF" rpt_type="txn_type" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="ACCTRLST" rpt_descr="Trust Receipt List" rpt_type="AT" status="Y"/>
+    <reportCode display_seq="6" flags="" flex_field1="SR_CHEQUE_REQUEST" flex_field2="CHEQUEBOOK_REQUEST" flex_field3="" language_code="EN" rpt_code="DB_CB" rpt_descr="Cheque Book" rpt_type="DB_PAY_METHOD_NON_FIN" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="10307" rpt_descr="Medical fees" rpt_type="PURPOSE_OF_PAYMENT_TT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="PRUPLIST" rpt_descr="Payroll Upload List" rpt_type="AT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="PAYMENT_FT_SI" flex_field2="" flex_field3="" language_code="EN" rpt_code="PAP" rpt_descr="Partially Approved" rpt_type="DB_TRANS_SI_USER_WF" status="Y"/>
+    <reportCode display_seq="5" flags="" flex_field1="PAYEE_BP" flex_field2="BILLER_PAYEE" flex_field3="" language_code="EN" rpt_code="DB_BILRPAY" rpt_descr="Biller Payee" rpt_type="DB_PAY_METHOD_NON_FIN" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="DEL" rpt_descr="Delete" rpt_type="DB_ALL_FINANCIAL_USER_WF" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="11603" rpt_descr="Pensions" rpt_type="PURPOSE_OF_PAYMENT_TT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="FTBVAL" rpt_descr="Batch Fund Transfer Validate" rpt_type="AT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="CLASSIFICATION4" rpt_descr="Org Classification 4" rpt_type="CORP_ENTITY_LBL" status="Y"/>
+    <reportCode display_seq="14" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="THB" rpt_descr="Thai Baht" rpt_type="TRADE_CURRENCY" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="BPBILVAL" rpt_descr="BIll payment Validation" rpt_type="AT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="TLADWFDEL" rpt_descr="LA Discrepancy Delete" rpt_type="AT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="FTBLIST" rpt_descr="Batch Fund Transfer List" rpt_type="AT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="ACCTRDTL" rpt_descr="Trust Receipt Detail" rpt_type="AT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="20512" rpt_descr="Repayment from Brunei head office, or by a branch or subsidiary, of short-term loans (less than a year) (financial institution)" rpt_type="PURPOSE_OF_PAYMENT_TT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="11401" rpt_descr="Rental payments on land and property" rpt_type="PURPOSE_OF_PAYMENT_TT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="PAYMENT_BP" flex_field2="" flex_field3="" language_code="EN" rpt_code="STP" rpt_descr="Stopped" rpt_type="DB_BP_BANK_WF" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="HPQSS" rpt_descr="HirePurchaseQuoteSubmitService" rpt_type="AT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="TSPGRVAL" rpt_descr="Shipping Guarantee Validate" rpt_type="AT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="TBNKGAPV" rpt_descr="Bank Guarantee Approve" rpt_type="AT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="BPPUPVW" rpt_descr="BP Payee Update Preview " rpt_type="AT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="BPPVAL" rpt_descr="Bill Payment Payee Validate" rpt_type="AT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="20609" rpt_descr="Other claims" rpt_type="PURPOSE_OF_PAYMENT_TT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="LGNAUTH" rpt_descr="Login Authentication" rpt_type="AT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="FTADPVAL" rpt_descr="FT Adhoc Payee Validation" rpt_type="AT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="PRDTLLST" rpt_descr="Payroll detail list" rpt_type="AT" status="Y"/>
+    <reportCode display_seq="2" flags="" flex_field1="PAYMENT_BP_SI" flex_field2="" flex_field3="" language_code="EN" rpt_code="SI" rpt_descr="Bill Payment SI" rpt_type="BP_OPTION_LIST" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="PAYMENT_IT PAYMENT_TT PAYMENT_DT PAYMENT_BP PAYROLL PAYMENT_FT_SI PAYMENT_BP_SI" flex_field2="" flex_field3="" language_code="EN" rpt_code="DB_ALL_FINANCIAL" rpt_descr="ALL" rpt_type="DB_PAY_METHOD_FIN" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="20104" rpt_descr="Other sectors-Debt forgiveness" rpt_type="PURPOSE_OF_PAYMENT_TT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="25" rpt_descr="Leaf" rpt_type="CHEQUE_BOOK_LEAVES" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="11502" rpt_descr="Tax refunds by Brunei government" rpt_type="PURPOSE_OF_PAYMENT_TT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="LABG" rpt_descr="Labour Guarantee" rpt_type="BANK_GUARANTEE_TYPE" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="SIDOMESTIC" rpt_descr="SI Domestic" rpt_type="txn_type" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="TBNKGRDFT" rpt_descr="Bank Guarantee Draft" rpt_type="AT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="11003" rpt_descr="Advertising" rpt_type="PURPOSE_OF_PAYMENT_TT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="FTCACCBAL" rpt_descr="AccountBalanceService" rpt_type="AT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="BPWFAPV" rpt_descr="WorkFlowAprovalService" rpt_type="AT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="SPWFAPV" rpt_descr="STOP PAYMENT WORKFLOW APPROVE" rpt_type="AT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="11202" rpt_descr="Government transactions" rpt_type="PURPOSE_OF_PAYMENT_TT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="10401" rpt_descr="Communication services" rpt_type="PURPOSE_OF_PAYMENT_TT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="20602" rpt_descr="Special Drawing rights" rpt_type="PURPOSE_OF_PAYMENT_TT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="20310" rpt_descr="Inter-branch settlements (non-financial institution)" rpt_type="PURPOSE_OF_PAYMENT_TT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="DBBYPASS" rpt_descr="DashboardBypassService" rpt_type="AT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="11104" rpt_descr="Other personal, cultural and recreational services" rpt_type="PURPOSE_OF_PAYMENT_TT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="WFLIST" rpt_descr="Manage Workflow" rpt_type="AT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="REGDEVC" rpt_descr="RegisterDevice" rpt_type="AT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="BPMWLINIT" rpt_descr="BP Manage WF List Init" rpt_type="AT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="LACCLST" rpt_descr="Loan Account Summ List Service" rpt_type="AT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="10101" rpt_descr="Merchandise imports" rpt_type="PURPOSE_OF_PAYMENT_TT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="10203" rpt_descr="Sea transport-Others(port expenses, charter of ships with operators, agents fees, etc.)" rpt_type="PURPOSE_OF_PAYMENT_TT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="SILVER" rpt_descr="Silver" rpt_type="CORP_ENTITY_CLASS2" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="10603" rpt_descr="Insurance claims paid" rpt_type="PURPOSE_OF_PAYMENT_TT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="20403" rpt_descr="Brunei residents purchases of other foreign bonds from non-residents" rpt_type="PURPOSE_OF_PAYMENT_TT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="FINTXN_SI_COY_DAILY_LIMIT" flex_field2="" flex_field3="" language_code="EN" rpt_code="SI_LIMIT" rpt_descr="Standing Instructions" rpt_type="COMPANY_LIMIT_SERVICES" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="BPSIVAL" rpt_descr="BP SI Validate" rpt_type="AT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="75" rpt_descr="Leaf" rpt_type="CHEQUE_BOOK_LEAVES" status="Y"/>
+    <reportCode display_seq="" flags="1" flex_field1="Classification of the corporate into different business group" flex_field2="" flex_field3="" language_code="EN" rpt_code="CLASSIFICATION1" rpt_descr="Business Segment" rpt_type="CORP_ENTITY_LBL" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="10304" rpt_descr="Telegraphic transfers/drafts/cheques in favour of Brunei residents going abroad" rpt_type="PURPOSE_OF_PAYMENT_TT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="DEPACCLBI" rpt_descr="DepositAccountSummaryBalances" rpt_type="AT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="20515" rpt_descr="Disbursement of long-term loans to non-residents" rpt_type="PURPOSE_OF_PAYMENT_TT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="INTERNALBOOKTRF" rpt_descr="Internal Transfer BOOKTRF" rpt_type="txn_type" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="PAYMENT_BP" flex_field2="" flex_field3="" language_code="EN" rpt_code="D" rpt_descr="Draft" rpt_type="DB_BP_USER_WF" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="20504" rpt_descr="Cheques paid by resident institution to non-resident institution" rpt_type="PURPOSE_OF_PAYMENT_TT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="PAYROLL_UPLOAD" flex_field2="" flex_field3="" language_code="EN" rpt_code="IC" rpt_descr="Incomplete" rpt_type="DB_PAYROLL_USER_WF" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="20523" rpt_descr="Other transactions not classified elsewhere" rpt_type="PURPOSE_OF_PAYMENT_TT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="TLADVAL" rpt_descr="LA Discrepancy Validate" rpt_type="AT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="ACCPCAINT" rpt_descr="Corporate Cards Init" rpt_type="AT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="PAYMENT_BP" flex_field2="" flex_field3="" language_code="EN" rpt_code="F" rpt_descr="Failed" rpt_type="DB_BP_BANK_WF" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="TLADSUB" rpt_descr="LA Discrepancy Submit" rpt_type="AT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="ACCIBCLST" rpt_descr="Bill Collection Inward Service" rpt_type="AT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="LOGIN" rpt_descr="CIBLogin" rpt_type="AT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="PAYMENT_IT PAYMENT_DT PAYMENT_TT" flex_field2="" flex_field3="" language_code="EN" rpt_code="PAP" rpt_descr="Partially Approved" rpt_type="DB_TRANS_SP_USER_WF" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="PAYMENT_DT PAYMENT_TT" flex_field2="" flex_field3="" language_code="EN" rpt_code="SB" rpt_descr="SentToBank" rpt_type="DB_TRANS_BT_BANK_WF" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="FTINS" rpt_descr="FT INSERT" rpt_type="AT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="MIBXCNT" rpt_descr="Message Inbox Count" rpt_type="AT" status="Y"/>
+    <reportCode display_seq="12" flags="" flex_field1="PAYMENT_FT_TEMPLATE" flex_field2="TEMPLATE" flex_field3="" language_code="EN" rpt_code="DB_TMPLT" rpt_descr="Templates" rpt_type="DB_PAY_METHOD_NON_FIN" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="BPSIWFDEL" rpt_descr="Bill Payment SI WF Delete" rpt_type="AT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="20519" rpt_descr="Losses from exchange rate fluctuations" rpt_type="PURPOSE_OF_PAYMENT_TT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="20605" rpt_descr="Currencies and deposits with banks" rpt_type="PURPOSE_OF_PAYMENT_TT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="TRADE_LA_DISCREPANCY" flex_field2="" flex_field3="" language_code="EN" rpt_code="A" rpt_descr="Fully Approved" rpt_type="DB_LOA_USER_WF" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="20306" rpt_descr="Short-term loans (less than a year) extended from Brunei from head office, or from a branch or subsidiary (non financial institution)" rpt_type="PURPOSE_OF_PAYMENT_TT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="FTSIDRF" rpt_descr="Fund Transfer Si Draft" rpt_type="AT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="11405" rpt_descr="Interest" rpt_type="PURPOSE_OF_PAYMENT_TT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="MESSAGE_INBOX" rpt_descr="e Bnking Customer Service" rpt_type="MESSAGE_INBOX_COMPOSE_TO" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="DOMESTICRTGS" rpt_descr="Domestic Transfer RTGS" rpt_type="txn_type" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="PREMIUM" rpt_descr="Premium" rpt_type="CORP_ENTITY_CLASS2" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="TEST" rpt_descr="test" rpt_type="ALL" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="ACCTXNLST" rpt_descr="CorporateCardsTxnHistListServi" rpt_type="AT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="SPWFLST" rpt_descr="STOP PAYMENT LIST SERVICE" rpt_type="AT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="MIRETLST" rpt_descr="Message Inbox List Service" rpt_type="AT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="SIDOMESTICRTGS" rpt_descr="Si Domestic Transfer  RTGS" rpt_type="txn_type" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="PAYROLL_UPLOAD" flex_field2="" flex_field3="" language_code="EN" rpt_code="D" rpt_descr="Draft" rpt_type="DB_PAYROLL_USER_WF" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="BPWFLIST" rpt_descr="BillPaymentWList" rpt_type="AT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="20509" rpt_descr="Non-residents withdrawals of funds from call or fixed deposits with Brunei banks" rpt_type="PURPOSE_OF_PAYMENT_TT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="TLCAWFDEL" rpt_descr="LC Amendment Delete" rpt_type="AT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="STP" rpt_descr="Stopped" rpt_type="DB_ALL_FINANCIAL_BANK_WF" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="DASHBOARD" rpt_descr="Webview Dashboard" rpt_type="AT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="PAYEE_BP" flex_field2="" flex_field3="" language_code="EN" rpt_code="PA" rpt_descr="Pending Approval" rpt_type="DB_BILRPAY_USER_WF" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="TBNKWFDEL" rpt_descr="Bank Guarantee Delete" rpt_type="AT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="TT" rpt_descr="TT" rpt_type="txn_type" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="REPACCLST" rpt_descr="Report Account List" rpt_type="AT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="11006" rpt_descr="Other services" rpt_type="PURPOSE_OF_PAYMENT_TT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="REJ" rpt_descr="Rejected" rpt_type="DB_ALL_NON_FINANCIAL_USER_WF" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="PAYMENT_BP" flex_field2="" flex_field3="" language_code="EN" rpt_code="REJ" rpt_descr="Rejected" rpt_type="DB_BP_USER_WF" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="TRADE_LC_AMENDMENT" flex_field2="" flex_field3="" language_code="EN" rpt_code="SB" rpt_descr="SentToBank" rpt_type="DB_LOC_BANK_WF" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="LGNENCN" rpt_descr="Login Encryption Service" rpt_type="AT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="FT" rpt_descr="Fund Transfer" rpt_type="MESSAGE_INBOX_COMPOSE_CATEGORY" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="20603" rpt_descr="Reserve position in the fund" rpt_type="PURPOSE_OF_PAYMENT_TT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="PAYROLL_UPLOAD" flex_field2="" flex_field3="" language_code="EN" rpt_code="PAP" rpt_descr="Partially Approved" rpt_type="DB_PAYROLL_USER_WF" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="20520" rpt_descr="Inter-branch settlements (clearing settlements)" rpt_type="PURPOSE_OF_PAYMENT_TT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="FTMLINIT" rpt_descr="Fund Transfer Mange List" rpt_type="AT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="20401" rpt_descr="Sales of shares in Brunei companies by non-residents, other than shares in their own subsidiaries" rpt_type="PURPOSE_OF_PAYMENT_TT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="FTWFAPV" rpt_descr="FundTransferApprove" rpt_type="AT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="TRADE_SHIPPING_GUARANTEE" flex_field2="" flex_field3="" language_code="EN" rpt_code="A" rpt_descr="Fully Approved" rpt_type="DB_SHIP_GUAR_USER_WF" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="REPTXNLST" rpt_descr="Report TXN List" rpt_type="AT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="FTBPVAL" rpt_descr="BatchPayeeFTVal" rpt_type="AT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="DBBWFSTAT" rpt_descr="Statistics Bank Workflow Stats" rpt_type="AT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="TRADE_BANK_GUARANTEE" flex_field2="" flex_field3="" language_code="EN" rpt_code="SB" rpt_descr="SentToBank" rpt_type="BANK_GUARANTEE_TYPE" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="PERB" rpt_descr="Performance Bond" rpt_type="BANK_GUARANTEE_TYPE" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="20101" rpt_descr="General government-Debt forgiveness" rpt_type="PURPOSE_OF_PAYMENT_TT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="D" rpt_descr="Draft" rpt_type="DB_ALL_FINANCIAL_USER_WF" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="PAYMENT_IT PAYMENT_DT PAYMENT_TT" flex_field2="" flex_field3="" language_code="EN" rpt_code="IC" rpt_descr="Incomplete" rpt_type="DB_TRANS_SP_USER_WF" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="FTACCLST" rpt_descr="Company Account List" rpt_type="AT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="PAYMENT_FT_SI" flex_field2="" flex_field3="" language_code="EN" rpt_code="P" rpt_descr="Future Dated" rpt_type="DB_TRANS_SI_BANK_WF" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="10303" rpt_descr="Travellers cheques sold for use abroad" rpt_type="PURPOSE_OF_PAYMENT_TT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="BPVIEW" rpt_descr="Bill Payment Txn View" rpt_type="AT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="PAYMENT_IT PAYMENT_DT PAYMENT_TT" flex_field2="" flex_field3="" language_code="EN" rpt_code="REP" rpt_descr="Pending Repair" rpt_type="DB_TRANS_SP_USER_WF" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="BIZSGMNT_SME" rpt_descr="SME" rpt_type="CORP_ENTITY_CLASS1" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="20303" rpt_descr="Brunei residents investment in their branches or subsidiaries abroad" rpt_type="PURPOSE_OF_PAYMENT_TT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="ACCOUNT" rpt_descr="Account" rpt_type="INBOX_SERVICE_REQUEST" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="FUPDVIEW" rpt_descr="File Upload VIEW" rpt_type="AT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="10801" rpt_descr="Computer and information services" rpt_type="PURPOSE_OF_PAYMENT_TT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="11201" rpt_descr="Payments to foreign government and international bodies for service" rpt_type="PURPOSE_OF_PAYMENT_TT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="PAYMENT_BP_SI" flex_field2="" flex_field3="" language_code="EN" rpt_code="PA" rpt_descr="Pending Approval" rpt_type="DB_BP_SI_USER_WF" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="PAYMENT_DT PAYMENT_TT" flex_field2="" flex_field3="" language_code="EN" rpt_code="P" rpt_descr="Future Date" rpt_type="DB_TRANS_BT_BANK_WF" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="20513" rpt_descr="Repayment from Brunei head office, or by a branch or subsidiary, of long-term loans (more than a year) (financial institution)" rpt_type="PURPOSE_OF_PAYMENT_TT" status="Y"/>
+    <reportCode display_seq="4" flags="" flex_field1="PAYEE_FT" flex_field2="TRANSFER_PAYEE" flex_field3="" language_code="EN" rpt_code="DB_BENIF" rpt_descr="Beneficiary" rpt_type="DB_PAY_METHOD_NON_FIN" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="10202" rpt_descr="Sea transport-Freight" rpt_type="PURPOSE_OF_PAYMENT_TT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="11402" rpt_descr="Transfers of profits from branch or subsidiary in Brunei" rpt_type="PURPOSE_OF_PAYMENT_TT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="10209" rpt_descr="Other transport-Others" rpt_type="PURPOSE_OF_PAYMENT_TT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="100" rpt_descr="Leaf" rpt_type="CHEQUE_BOOK_LEAVES" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="10102" rpt_descr="Goods for processing" rpt_type="PURPOSE_OF_PAYMENT_TT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="SFUINS" rpt_descr="Single File Upload INS" rpt_type="AT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="SR_CHEQUE_REQUEST" flex_field2="" flex_field3="" language_code="EN" rpt_code="A" rpt_descr="Fully Approved" rpt_type="DB_CB_USER_WF" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="PAYMENT_BP" flex_field2="" flex_field3="" language_code="EN" rpt_code="S" rpt_descr="Success" rpt_type="DB_BP_BANK_WF" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="20502" rpt_descr="Cheques paid by resident individual to non-resident institution" rpt_type="PURPOSE_OF_PAYMENT_TT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="BFUPYSUMR" rpt_descr="BFU PAyment Summary" rpt_type="AT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="THPDFGEN" rpt_descr="Pdf Generation" rpt_type="AT" status="Y"/>
+    <reportCode display_seq="1" flags="" flex_field1="PAYMENT_DT PAYMENT_IT PAYMENT_TT" flex_field2="" flex_field3="" language_code="EN" rpt_code="SINGLE" rpt_descr="Single Payment" rpt_type="FT_OPTION_LIST" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="FTWFLIST" rpt_descr="Fund Transfer Manage Workflow" rpt_type="AT" status="Y"/>
+    <reportCode display_seq="3" flags="" flex_field1="TRADE_BANK_GUARANTEE" flex_field2="TRADE_BANK_GUARANTEE" flex_field3="" language_code="EN" rpt_code="DB_BANK_GAU" rpt_descr="Bank Guarantee" rpt_type="DB_PAY_METHOD_NON_FIN" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="SR_DEMAND_DRAFT" flex_field2="" flex_field3="" language_code="EN" rpt_code="A" rpt_descr="Fully Approved" rpt_type="DB_DD_USER_WF" status="Y"/>
+    <reportCode display_seq="9" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="IDR" rpt_descr="Indonesian Rupiah" rpt_type="TRADE_CURRENCY" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="PAYMENT_DT PAYMENT_TT" flex_field2="" flex_field3="" language_code="EN" rpt_code="S" rpt_descr="Success" rpt_type="DB_TRANS_BT_BANK_WF" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="FTSIWFAPV" rpt_descr="FT SI Workflow Approve" rpt_type="AT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="MPINLGN" rpt_descr="MPinLoginService" rpt_type="AT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="PAYEE_FT" flex_field2="" flex_field3="" language_code="EN" rpt_code="REJ" rpt_descr="Rejected" rpt_type="DB_BENIF_USER_WF" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="TRADE_BANK_GUARANTEE" flex_field2="" flex_field3="" language_code="EN" rpt_code="A" rpt_descr="Fully Approved" rpt_type="DB_BANK_GAU_USER_WF" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="20505" rpt_descr="Refunds on exports" rpt_type="PURPOSE_OF_PAYMENT_TT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="BPSIINIT" rpt_descr="Bill Payment SI Init" rpt_type="AT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="ACOUNTS" rpt_descr="ACCOUNTS" rpt_type="MESSAGE_INBOX_COMPOSE_CATEGORY" status="Y"/>
+    <reportCode display_seq="11" flags="" flex_field1="TRADE_SHIPPING_GUARANTEE" flex_field2="TRADE_SHIPPING_GUARANTEE" flex_field3="" language_code="EN" rpt_code="DB_SHIP_GUAR" rpt_descr="Shipping Guarantee" rpt_type="DB_PAY_METHOD_NON_FIN" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="BPPWFDEL" rpt_descr="BP Workflow Delete " rpt_type="AT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="DRA" rpt_descr="Draft" rpt_type="DB_ALL_NON_FINANCIAL_USER_WF" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="FTTEMVAL" rpt_descr="FT template validate" rpt_type="AT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="FRGTPSWD" rpt_descr="CIB Forgot Password" rpt_type="AT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="SPACTVAL" rpt_descr="STOP PAYMENT VALIDATE SERVICE" rpt_type="AT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="FTBWFLIST" rpt_descr="Batch Fund Transfer WF List" rpt_type="AT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="BPDYNFLD" rpt_descr="Bill Payment Dynamic Field" rpt_type="AT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="DAQBAL" rpt_descr="DashboardQuickBalance" rpt_type="AT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="GOLD" rpt_descr="Gold" rpt_type="CORP_ENTITY_CLASS2" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="SB" rpt_descr="Send To Bank" rpt_type="DB_ALL_FINANCIAL_BANK_WF" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="10901" rpt_descr="Patent fees and copyrights" rpt_type="PURPOSE_OF_PAYMENT_TT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="REPCRDTXN" rpt_descr="Cards Txn History" rpt_type="AT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="10602" rpt_descr="Other insurance premiums paid" rpt_type="PURPOSE_OF_PAYMENT_TT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="PAYROLL" flex_field2="" flex_field3="" language_code="EN" rpt_code="S" rpt_descr="Success" rpt_type="PAYROLL_LIST_STATUS" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="PAYROLL" flex_field2="" flex_field3="" language_code="EN" rpt_code="UP" rpt_descr="Under Processing" rpt_type="PAYROLL_UPL_LIST_STATUS" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="11503" rpt_descr="Funding-Current Transfers" rpt_type="PURPOSE_OF_PAYMENT_TT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="BPBILLAMT" rpt_descr="Bill Payment Bill Amount" rpt_type="AT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="BPSIMDEL" rpt_descr="Bill Payment SI Master Delete" rpt_type="AT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="20105" rpt_descr="Legacies" rpt_type="PURPOSE_OF_PAYMENT_TT" status="Y"/>
+    <reportCode display_seq="8" flags="" flex_field1="TRADE_LC" flex_field2="" flex_field3="" language_code="EN" rpt_code="DB_IRLOC" rpt_descr="Irrevocable Letter Of Credit" rpt_type="DB_PAY_METHOD_NON_FIN" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="A" rpt_descr="Success" rpt_type="txn_status" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="FTTEWFLST" rpt_descr="FT Template WF List" rpt_type="AT" status="Y"/>
+    <reportCode display_seq="1" flags="" flex_field1="SR_DEMAND_DRAFT SR_CHEQUE_REQUEST SR_ACCOUNT_SWEEP TRADE_LC TRADE_LC_AMENDMENT TRADE_LA_DISCREPANCY TRADE_SHIPPING_GUARANTEE TRADE_BANK_GUARANTEE PAYMENT_FT_TEMPLATE PAYEE_FT PAYEE_BP" flex_field2="" flex_field3="" language_code="EN" rpt_code="DB_ALL_NON_FINANCIAL" rpt_descr="ALL" rpt_type="DB_PAY_METHOD_NON_FIN" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="20307" rpt_descr="Long-term loans (more than a year) extended from Brunei from head office, or from a branch or subsidiary (non financial institution)" rpt_type="PURPOSE_OF_PAYMENT_TT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="BPPVIEW" rpt_descr="BP Payee View " rpt_type="AT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="PAYMENT_IT PAYMENT_DT PAYMENT_TT" flex_field2="" flex_field3="" language_code="EN" rpt_code="STP" rpt_descr="Stopped" rpt_type="DB_TRANS_SP_BANK_WF" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="20516" rpt_descr="Brunei residents repayments on short-term loans received from abroad" rpt_type="PURPOSE_OF_PAYMENT_TT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="FTBDRF" rpt_descr="Batch Fund Transfer Draft" rpt_type="AT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="MPINFRG" rpt_descr="ForgotMPinService" rpt_type="AT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="ACCODLST" rpt_descr="OverdraftAccountList" rpt_type="AT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="S" rpt_descr="Success" rpt_type="DB_ALL_FINANCIAL_BANK_WF" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="BAFTLIST" rpt_descr="Batch Fund Transfer List" rpt_type="AT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="PAYROLL" flex_field2="" flex_field3="" language_code="EN" rpt_code="PP" rpt_descr="Pending Processing" rpt_type="PAYROLL_LIST_STATUS" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="U" rpt_descr="Under Processing" rpt_type="txn_status" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="BPDRAFT" rpt_descr="Bill Payment Draft" rpt_type="AT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="TLADDFT" rpt_descr="LA Discrepancy Draft" rpt_type="AT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="TRADE_LA_DISCREPANCY" flex_field2="" flex_field3="" language_code="EN" rpt_code="DRA" rpt_descr="Draft" rpt_type="DB_LOA_USER_WF" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="10703" rpt_descr="Bank charges" rpt_type="PURPOSE_OF_PAYMENT_TT" status="Y"/>
+    <reportCode display_seq="4" flags="" flex_field1="PAYMENT_FT_TEMPLATE" flex_field2="" flex_field3="" language_code="EN" rpt_code="TEMPLATE" rpt_descr="Template" rpt_type="FT_OPTION_LIST" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="DANOTFLST" rpt_descr="DashboardNotfctnListingService" rpt_type="AT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="SESA" rpt_descr="KeepSessionAlive" rpt_type="AT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="BPSIWFAPV" rpt_descr="BP SI Workflow Approve" rpt_type="AT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="BPPADVAL" rpt_descr="Biller Payee Adhoc Validation" rpt_type="AT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="PAYMENT_BP_SI" flex_field2="" flex_field3="" language_code="EN" rpt_code="P" rpt_descr="Future Dated" rpt_type="DB_BP_SI_BANK_WF" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="PAYMENT_IT PAYMENT_DT PAYMENT_TT" flex_field2="" flex_field3="" language_code="EN" rpt_code="F" rpt_descr="Failed" rpt_type="DB_TRANS_SP_BANK_WF" status="Y"/>
+    <reportCode display_seq="2" flags="" flex_field1="PAYMENT_DT PAYMENT_IT PAYMENT_TT" flex_field2="" flex_field3="" language_code="EN" rpt_code="BATCH" rpt_descr="Batch Payment" rpt_type="FT_OPTION_LIST" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="TSGAPV" rpt_descr="Shipping Guarantee Approve" rpt_type="AT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="MFTPVAL" rpt_descr="Manage FT Payee Validation" rpt_type="AT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="GLBL_CRPRT" rpt_descr="Global Corporate" rpt_type="CORP_ENTITY_CLASS1" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="PAYROLL_UPLOAD" flex_field2="" flex_field3="" language_code="EN" rpt_code="S" rpt_descr="Success" rpt_type="DB_PAYROLL_BANK_WF" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="PAYROLL_UPLOAD" flex_field2="" flex_field3="" language_code="EN" rpt_code="STP" rpt_descr="Stopped" rpt_type="DB_PAYROLL_BANK_WF" status="Y"/>
+    <reportCode display_seq="" flags="1" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="CLASSIFICATION2" rpt_descr="Group Priority" rpt_type="CORP_ENTITY_LBL" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="PAYMENT_FT_TEMPLATE" flex_field2="" flex_field3="" language_code="EN" rpt_code="REJ" rpt_descr="Reject" rpt_type="DB_TMPLT_USER_WF" status="Y"/>
+    <reportCode display_seq="1" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="CIF" rpt_descr="CIF" rpt_type="LC_TERMS" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="OPRACCLST" rpt_descr="Operative Account Summary List" rpt_type="AT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="FTBWFAPV" rpt_descr="Batch Fund Transfer WF Approve" rpt_type="AT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="HPQIS" rpt_descr="HirePurchaseQuoteInitService" rpt_type="AT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="TLCAINIT" rpt_descr="LC Amendment Init" rpt_type="AT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="PAYROLL_UPLOAD" flex_field2="" flex_field3="" language_code="EN" rpt_code="PWF" rpt_descr="Processed With Failures" rpt_type="DB_PAYROLL_BANK_WF" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="PAYMENT_FT_SI" flex_field2="" flex_field3="" language_code="EN" rpt_code="S" rpt_descr="Success" rpt_type="DB_TRANS_SI_BANK_WF" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="PF" rpt_descr="Processed With Failures" rpt_type="DB_ALL_FINANCIAL_BANK_WF" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="PRLIST" rpt_descr="Payroll List Screen" rpt_type="AT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="ACCLOCLST" rpt_descr="LetterOfCreditAccountSummaryLi" rpt_type="AT" status="Y"/>
+    <reportCode display_seq="" flags="" flex_field1="" flex_field2="" flex_field3="" language_code="EN" rpt_code="20606" rpt_descr="Securities (equities)" rpt_type="PURPOSE_OF_PAYMENT_TT" status="Y"/>
+</reportCodes>
